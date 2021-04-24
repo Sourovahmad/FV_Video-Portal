@@ -4,7 +4,13 @@
  <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
     <div class="container-fluid">
         <i class="fas fa-bars p-2 me-3"></i>
-        <a class="navbar-brand" href="#">Navbar</a>
+
+         
+        <a class="navbar-brand" href="#" style="font-weight: 700; font-size:px;">
+            <span class="text-danger " style="font-size: 25px;"><i class="fab fa-youtube"></i> </span>
+            
+            
+            VideoTube</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
